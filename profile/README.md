@@ -76,16 +76,13 @@ git clone https://github.com/HackConnectTeam/backend
 ✅ **What works:**
 
 * Challenge system and scoreboard
-* Avatar and project name generation via AI
 * User profiles and matchmaking
 * Project creation and sharing
 
 🚧 **What doesn’t (yet):**
 
 * 🖼️ Avatar display: Avatar generation works via the diffusion model, but the generated image is not yet displayed in the frontend.
-
 * 🧑‍💻 GitHub language integration: We implemented a feature to automatically fetch programming languages from a user’s GitHub repositories, but it wasn’t fully tested during the hackathon.
-
 * ✅ Challenge tracking: Users can complete challenges and gain points, but the list of completed challenges is not visible yet on their profiles.
 
 ---
